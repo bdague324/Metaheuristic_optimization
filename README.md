@@ -37,7 +37,7 @@ The  is done for both dimension D = 50 and D = 500.
 ### F1: Shifted Sphere Function
 #### D = 50
 
-Notebook associated to the problem:[notebook_Schift_sphere_50](./schift_sphere/Schift_sphere_50.ipynb)
+Notebook associated to the problem: [notebook_Schift_sphere_50](./shift_sphere/Shift_sphere_50.ipynb)
 
 - The chosen algorithm : **BFGS**
 - Fitness: 0.000026
@@ -49,7 +49,7 @@ Notebook associated to the problem:[notebook_Schift_sphere_50](./schift_sphere/S
 
 #### D = 500
 
-Notebook associated to the problem: [notebook_Schift_sphere_500](./schift_sphere/Schift_sphere_500.ipynb)
+Notebook associated to the problem: [notebook_Schift_sphere_500](./shift_sphere/Shift_sphere_500.ipynb)
 
 - The chosen algorithm : **BFGS**
 - Fitness: ~ 0.0
