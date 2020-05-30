@@ -137,7 +137,7 @@ Notebook associated to the problem: [notebook_Shift_griewank_500](./griewank/gri
 ### F6 : Shifted Ackley’s Function
 #### D = 50
 
-Notebook associated to the problem: [notebook_Shift_ackley_50](./ackley/Schift_ackley_50.ipynb)
+Notebook associated to the problem: [notebook_Shift_ackley_50](./ackley/ackley_50.ipynb)
 
 - The chosen algorithm :**saDE: Self-adaptive Differential Evolution**
 - Fitness: ~ 0.053
@@ -149,7 +149,7 @@ Notebook associated to the problem: [notebook_Shift_ackley_50](./ackley/Schift_a
 
 #### D = 500
 
-Notebook associated to the problem: [notebook_Shift_ackley_500](./ackley/Shift_ackley_500.ipynb)
+Notebook associated to the problem: [notebook_Shift_ackley_500](./ackley/ackley_500.ipynb)
 
 - The chosen algorithm :**PSO: Particle Swarm Optimization**
 - Fitness: ~ 0.005444
