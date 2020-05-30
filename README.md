@@ -19,7 +19,7 @@ Algoritm used to solve the 2 TSP problems is a Genetic Algorithm is well suited 
 
 ![Legende](Traject_djb38.png)
 
-[notebook_tsm_dj38](tsm_dj38.ipynb)
+ Notebook associated to the problem: [notebook_tsm_dj38](tsm_dj38.ipynb)
 
 **Qatar TSP problems**
 - 194 cities
@@ -27,7 +27,7 @@ Algoritm used to solve the 2 TSP problems is a Genetic Algorithm is well suited 
 
 ![Legende](Traject_qa194.png)
 
-[notebook_tsm_qa194](./tsm_qa194.ipynb)
+Notebook associated to the problem: [notebook_tsm_qa194](./tsm_qa194.ipynb)
 
 ## Continuous optimization
 
@@ -37,7 +37,7 @@ The  is done for both dimension D = 50 and D = 500.
 ### F1: Shifted Sphere Function
 #### D = 50
 
-[notebook_Schift_sphere_50](./Schift_sphere_50.ipynb)
+Notebook associated to the problem:[notebook_Schift_sphere_50](./Schift_sphere_50.ipynb)
 
 - The chosen algorithm : **BFGS**
 - Fitness: 0.000026
@@ -49,7 +49,7 @@ The  is done for both dimension D = 50 and D = 500.
 
 #### D = 500
 
-[notebook_Schift_sphere_500](./Schift_sphere_500.ipynb)
+Notebook associated to the problem: [notebook_Schift_sphere_500](./Schift_sphere_500.ipynb)
 
 - The chosen algorithm : **BFGS**
 - Fitness: ~ 0.0
@@ -62,7 +62,7 @@ The  is done for both dimension D = 50 and D = 500.
 ### F3 : Shifted Rosenbrock’s Function
 #### D = 50
 
-[notebook_rosenbrock_50](./rosenbrock_50.ipynb)
+Notebook associated to the problem: [notebook_rosenbrock_50](./rosenbrock_50.ipynb)
 
 - The chosen algorithm :**bee_colony**
 - Fitness: ~ 0.002831
@@ -74,7 +74,7 @@ The  is done for both dimension D = 50 and D = 500.
 
 #### D = 500
 
-[notebook_rosenbrock_500](./rosenbrock_500.ipynb)
+Notebook associated to the problem:[notebook_rosenbrock_500](./rosenbrock_500.ipynb)
 
 - The chosen algorithm :**bee_colony**
 - Fitness: ~ 0.001836
@@ -86,7 +86,8 @@ The  is done for both dimension D = 50 and D = 500.
 
 ### F4 : Shifted Rastrigin’s Function
 #### D = 50
-[notebook_Schift_rastrigin_50](./Schift_rastrigin_50.ipynb)
+
+Notebook associated to the problem: [notebook_Schift_rastrigin_50](./Schift_rastrigin_50.ipynb)
 
 - The chosen algorithm :**saDE**
 - Fitness: ~ 0.141031
@@ -98,7 +99,7 @@ The  is done for both dimension D = 50 and D = 500.
 
 #### D = 500
 
-[notebook_Schift_rastrigin_500](./Schift_rastrigin_500.ipynb)
+Notebook associated to the problem: [notebook_Schift_rastrigin_500](./Schift_rastrigin_500.ipynb)
 
 - The chosen algorithm :ABC: Artificial Bee Colony
 - Fitness: ~ 0
@@ -111,7 +112,7 @@ The  is done for both dimension D = 50 and D = 500.
 ### F5 : Shifted Griewank’s Function
 #### D = 50
 
-[notebook_Schift_griewank_50](./Schift_griewank_50.ipynb)
+Notebook associated to the problem: [notebook_Schift_griewank_50](./Schift_griewank_50.ipynb)
 
 - The chosen algorithm :**PSO: Particle Swarm Optimization**
 - Fitness: ~ 0
@@ -123,7 +124,7 @@ The  is done for both dimension D = 50 and D = 500.
 
 #### D = 500
 
-[notebook_Schift_griewank_500](./Schift_griewank_500.ipynb)
+Notebook associated to the problem: [notebook_Schift_griewank_500](./Schift_griewank_500.ipynb)
 
 - The chosen algorithm :**PSO: Particle Swarm Optimization**
 - Fitness: ~ 0.000002
@@ -136,7 +137,7 @@ The  is done for both dimension D = 50 and D = 500.
 ### F6 : Shifted Ackley’s Function
 #### D = 50
 
-[notebook_Schift_ackley_50](./Schift_ackley_50.ipynb)
+Notebook associated to the problem: [notebook_Schift_ackley_50](./Schift_ackley_50.ipynb)
 
 - The chosen algorithm :**saDE: Self-adaptive Differential Evolution**
 - Fitness: ~ 0.053
@@ -148,7 +149,7 @@ The  is done for both dimension D = 50 and D = 500.
 
 #### D = 500
 
-[notebook_Schift_ackley_500](./Schift_ackley_500.ipynb)
+Notebook associated to the problem: [notebook_Schift_ackley_500](./Schift_ackley_500.ipynb)
 
 - The chosen algorithm :**PSO: Particle Swarm Optimization**
 - Fitness: ~ 0.005444
