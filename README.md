@@ -87,7 +87,7 @@ Notebook associated to the problem:[notebook_rosenbrock_500](./rosenbrock/rosenb
 ### F4 : Shifted Rastrigin’s Function
 #### D = 50
 
-Notebook associated to the problem: [notebook_Schift_rastrigin_50](./rastrigin/Schift_rastrigin_50.ipynb)
+Notebook associated to the problem: [notebook_Shift_rastrigin_50](./rastrigin/Shift_rastrigin_50.ipynb)
 
 - The chosen algorithm :**saDE**
 - Fitness: ~ 0.141031
@@ -99,7 +99,7 @@ Notebook associated to the problem: [notebook_Schift_rastrigin_50](./rastrigin/S
 
 #### D = 500
 
-Notebook associated to the problem: [notebook_Schift_rastrigin_500](./rastrigin/Schift_rastrigin_500.ipynb)
+Notebook associated to the problem: [notebook_Shift_rastrigin_500](./rastrigin/Shift_rastrigin_500.ipynb)
 
 - The chosen algorithm :ABC: Artificial Bee Colony
 - Fitness: ~ 0
@@ -112,7 +112,7 @@ Notebook associated to the problem: [notebook_Schift_rastrigin_500](./rastrigin/
 ### F5 : Shifted Griewank’s Function
 #### D = 50
 
-Notebook associated to the problem: [notebook_Schift_griewank_50](./griewank/schift_griewank_50.ipynb)
+Notebook associated to the problem: [notebook_Shift_griewank_50](./griewank/schift_griewank_50.ipynb)
 
 - The chosen algorithm :**PSO: Particle Swarm Optimization**
 - Fitness: ~ 0
@@ -124,7 +124,7 @@ Notebook associated to the problem: [notebook_Schift_griewank_50](./griewank/sch
 
 #### D = 500
 
-Notebook associated to the problem: [notebook_Schift_griewank_500](./griewank/Schift_griewank_500.ipynb)
+Notebook associated to the problem: [notebook_Shift_griewank_500](./griewank/Schift_griewank_500.ipynb)
 
 - The chosen algorithm :**PSO: Particle Swarm Optimization**
 - Fitness: ~ 0.000002
@@ -137,7 +137,7 @@ Notebook associated to the problem: [notebook_Schift_griewank_500](./griewank/Sc
 ### F6 : Shifted Ackley’s Function
 #### D = 50
 
-Notebook associated to the problem: [notebook_Schift_ackley_50](./Schift_ackley_50.ipynb)
+Notebook associated to the problem: [notebook_Shift_ackley_50](./ackley/Schift_ackley_50.ipynb)
 
 - The chosen algorithm :**saDE: Self-adaptive Differential Evolution**
 - Fitness: ~ 0.053
@@ -145,11 +145,11 @@ Notebook associated to the problem: [notebook_Schift_ackley_50](./Schift_ackley_
 - The computational time (sec) : 2.414
 - The convergence curve :
 
-![Legende](./griewank/sol_ackley_50.png)
+![Legende](./ackley/sol_ackley_50.png)
 
 #### D = 500
 
-Notebook associated to the problem: [notebook_Schift_ackley_500](./Schift_ackley_500.ipynb)
+Notebook associated to the problem: [notebook_Shift_ackley_500](./ackley/Shift_ackley_500.ipynb)
 
 - The chosen algorithm :**PSO: Particle Swarm Optimization**
 - Fitness: ~ 0.005444
@@ -157,4 +157,4 @@ Notebook associated to the problem: [notebook_Schift_ackley_500](./Schift_ackley
 - The computational time (sec) : 39.131
 - The convergence curve (fitness as a function of time)
 
-![Legende](./griewank/sol_ackley_500.png)
+![Legende](./ackley/sol_ackley_500.png)
