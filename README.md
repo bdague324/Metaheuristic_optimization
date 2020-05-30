@@ -17,17 +17,17 @@ Algoritm used to solve the 2 TSP problems is a Genetic Algorithm is well suited 
 - 38 cities
 - Global Optimum is reached at 6656
 
-![Legende](Traject_djb38.png)
+![Legende](./TSP_dj38/Traject_djb38.png)
 
- Notebook associated to the problem: [notebook_tsm_dj38](./tsm_dj38.ipynb)
+ Notebook associated to the problem: [notebook_tsm_dj38](./TSP_dj38/tsm_dj38.ipynb)
 
 **Qatar TSP problems**
 - 194 cities
 - Global Optimum is reached at
 
-![Legende](Traject_qa194.png)
+![Legende](./TSP_qa194/Traject_qa194.png)
 
-Notebook associated to the problem: [notebook_tsm_qa194](./tsm_qa194.ipynb)
+Notebook associated to the problem: [notebook_tsm_qa194](./TSP_qa194/tsm_qa194.ipynb)
 
 ## Continuous optimization
 
