@@ -27,7 +27,7 @@ Algoritm used to solve the 2 TSP problems is a Genetic Algorithm is well suited 
 
 ![Legende](Traject_qa194.png)
 
-[notebook_tsm_qa194](tsm_qa194.ipynb)
+[notebook_tsm_qa194](./tsm_qa194.ipynb)
 
 ## Continuous optimization
 
