@@ -17,9 +17,9 @@ Algoritm used to solve the 2 TSP problems is a Genetic Algorithm is well suited 
 - 38 cities
 - Global Optimum is reached at 6656
 
-![Legende](./TSP_dj38/Traject_djb38.png)
+![Legende](./TSP_djb38/Traject_djb38.png)
 
- Notebook associated to the problem: [notebook_tsm_dj38](./TSP_dj38/tsm_dj38.ipynb)
+ Notebook associated to the problem: [notebook_tsm_dj38](./TSP_djb38/tsm_djb38.ipynb)
 
 **Qatar TSP problems**
 - 194 cities
@@ -37,7 +37,7 @@ The  is done for both dimension D = 50 and D = 500.
 ### F1: Shifted Sphere Function
 #### D = 50
 
-Notebook associated to the problem:[notebook_Schift_sphere_50](./Schift_sphere_50.ipynb)
+Notebook associated to the problem:[notebook_Schift_sphere_50](./schift_sphere/Schift_sphere_50.ipynb)
 
 - The chosen algorithm : **BFGS**
 - Fitness: 0.000026
@@ -45,11 +45,11 @@ Notebook associated to the problem:[notebook_Schift_sphere_50](./Schift_sphere_5
 - The computational time (sec) : 5.395
 - The convergence curve :
 
-![Legende](sol_sphere_50.png)
+![Legende](./shift_sphere/sol_sphere_50.png)
 
 #### D = 500
 
-Notebook associated to the problem: [notebook_Schift_sphere_500](./Schift_sphere_500.ipynb)
+Notebook associated to the problem: [notebook_Schift_sphere_500](./schift_sphere/Schift_sphere_500.ipynb)
 
 - The chosen algorithm : **BFGS**
 - Fitness: ~ 0.0
@@ -57,12 +57,12 @@ Notebook associated to the problem: [notebook_Schift_sphere_500](./Schift_sphere
 - The computational time (sec) : 0.305
 - The convergence curve :
 
-![Legende](sol_sphere_500.png)
+![Legende](./shift_sphere/sol_sphere_500.png)
 
 ### F3 : Shifted Rosenbrock’s Function
 #### D = 50
 
-Notebook associated to the problem: [notebook_rosenbrock_50](./rosenbrock_50.ipynb)
+Notebook associated to the problem: [notebook_rosenbrock_50](./rosenbrock/rosenbrock_50.ipynb)
 
 - The chosen algorithm :**bee_colony**
 - Fitness: ~ 0.002831
@@ -70,11 +70,11 @@ Notebook associated to the problem: [notebook_rosenbrock_50](./rosenbrock_50.ipy
 - The computational time (sec) :8.360
 - The convergence curve (fitness as a function of time)
 
-![Legende](sol_rosenbrock_50.png)
+![Legende](./rosenbrock/sol_rosenbrock_50.png)
 
 #### D = 500
 
-Notebook associated to the problem:[notebook_rosenbrock_500](./rosenbrock_500.ipynb)
+Notebook associated to the problem:[notebook_rosenbrock_500](./rosenbrock/rosenbrock_500.ipynb)
 
 - The chosen algorithm :**bee_colony**
 - Fitness: ~ 0.001836
@@ -82,12 +82,12 @@ Notebook associated to the problem:[notebook_rosenbrock_500](./rosenbrock_500.ip
 - The computational time (sec) : 10.626
 - The convergence curve (fitness as a function of time)
 
-![Legende](sol_rosenbrock_500.png)
+![Legende](./rosenbrock/sol_rosenbrock_500.png)
 
 ### F4 : Shifted Rastrigin’s Function
 #### D = 50
 
-Notebook associated to the problem: [notebook_Schift_rastrigin_50](./Schift_rastrigin_50.ipynb)
+Notebook associated to the problem: [notebook_Schift_rastrigin_50](./rastrigin/Schift_rastrigin_50.ipynb)
 
 - The chosen algorithm :**saDE**
 - Fitness: ~ 0.141031
@@ -95,11 +95,11 @@ Notebook associated to the problem: [notebook_Schift_rastrigin_50](./Schift_rast
 - The computational time (sec) : 4.884
 - The convergence curve :
 
-![Legende](sol_rastrigin_50.png)
+![Legende](./rastrigin/sol_rastrigin_50.png)
 
 #### D = 500
 
-Notebook associated to the problem: [notebook_Schift_rastrigin_500](./Schift_rastrigin_500.ipynb)
+Notebook associated to the problem: [notebook_Schift_rastrigin_500](./rastrigin/Schift_rastrigin_500.ipynb)
 
 - The chosen algorithm :ABC: Artificial Bee Colony
 - Fitness: ~ 0
@@ -107,12 +107,12 @@ Notebook associated to the problem: [notebook_Schift_rastrigin_500](./Schift_ras
 - The computational time (sec) : 241.044
 - The convergence curve :
 
-![Legende](sol_rastrigin_500.png)
+![Legende](./rastrigin/sol_rastrigin_500.png)
 
 ### F5 : Shifted Griewank’s Function
 #### D = 50
 
-Notebook associated to the problem: [notebook_Schift_griewank_50](./schift_griewank_50.ipynb)
+Notebook associated to the problem: [notebook_Schift_griewank_50](./griewank/schift_griewank_50.ipynb)
 
 - The chosen algorithm :**PSO: Particle Swarm Optimization**
 - Fitness: ~ 0
@@ -120,11 +120,11 @@ Notebook associated to the problem: [notebook_Schift_griewank_50](./schift_griew
 - The computational time (sec) : 7.452
 - The convergence curve :
 
-![Legende](sol_griewank_50.png)
+![Legende](./griewank/sol_griewank_50.png)
 
 #### D = 500
 
-Notebook associated to the problem: [notebook_Schift_griewank_500](./Schift_griewank_500.ipynb)
+Notebook associated to the problem: [notebook_Schift_griewank_500](./griewank/Schift_griewank_500.ipynb)
 
 - The chosen algorithm :**PSO: Particle Swarm Optimization**
 - Fitness: ~ 0.000002
@@ -132,7 +132,7 @@ Notebook associated to the problem: [notebook_Schift_griewank_500](./Schift_grie
 - The computational time (sec) : 31.694
 - The convergence curve :
 
-![Legende](sol_griewank_500.png)
+![Legende](./griewank/sol_griewank_500.png)
 
 ### F6 : Shifted Ackley’s Function
 #### D = 50
@@ -145,7 +145,7 @@ Notebook associated to the problem: [notebook_Schift_ackley_50](./Schift_ackley_
 - The computational time (sec) : 2.414
 - The convergence curve :
 
-![Legende](sol_ackley_50.png)
+![Legende](./griewank/sol_ackley_50.png)
 
 #### D = 500
 
@@ -157,4 +157,4 @@ Notebook associated to the problem: [notebook_Schift_ackley_500](./Schift_ackley
 - The computational time (sec) : 39.131
 - The convergence curve (fitness as a function of time)
 
-![Legende](sol_ackley_500.png)
+![Legende](./griewank/sol_ackley_500.png)
