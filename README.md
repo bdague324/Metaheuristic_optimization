@@ -112,7 +112,7 @@ Notebook associated to the problem: [notebook_Shift_rastrigin_500](./rastrigin/r
 ### F5 : Shifted Griewank’s Function
 #### D = 50
 
-Notebook associated to the problem: [notebook_Shift_griewank_50](./griewank/schift_griewank_50.ipynb)
+Notebook associated to the problem: [notebook_Shift_griewank_50](./griewank/griewank_50.ipynb)
 
 - The chosen algorithm :**PSO: Particle Swarm Optimization**
 - Fitness: ~ 0
@@ -124,7 +124,7 @@ Notebook associated to the problem: [notebook_Shift_griewank_50](./griewank/schi
 
 #### D = 500
 
-Notebook associated to the problem: [notebook_Shift_griewank_500](./griewank/Schift_griewank_500.ipynb)
+Notebook associated to the problem: [notebook_Shift_griewank_500](./griewank/griewank_500.ipynb)
 
 - The chosen algorithm :**PSO: Particle Swarm Optimization**
 - Fitness: ~ 0.000002
