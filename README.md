@@ -44,6 +44,7 @@ The  is done for both dimension D = 50 and D = 500.
 - The number of function evaluations : 520
 - The computational time (sec) : 5.395
 - The convergence curve :
+
 ![Legende](sol_sphere_50.png)
 
 #### D = 500
