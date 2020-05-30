@@ -19,7 +19,7 @@ Algoritm used to solve the 2 TSP problems is a Genetic Algorithm is well suited 
 
 ![Legende](Traject_djb38.png)
 
- Notebook associated to the problem: [notebook_tsm_dj38](tsm_dj38.ipynb)
+ Notebook associated to the problem: [notebook_tsm_dj38](./tsm_dj38.ipynb)
 
 **Qatar TSP problems**
 - 194 cities
