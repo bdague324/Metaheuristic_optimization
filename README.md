@@ -42,7 +42,7 @@ The  is done for both dimension D = 50 and D = 500.
 - The chosen algorithm : **BFGS**
 - Fitness: 0.000026
 - The number of function evaluations : 520
-- The computational time (sec) :5.395
+- The computational time (sec) : 5.395
 - The convergence curve :
 ![Legende](sol_sphere_50.png)
 
@@ -54,7 +54,8 @@ The  is done for both dimension D = 50 and D = 500.
 - Fitness: ~ 0.0
 - The number of function evaluations : 5020
 - The computational time (sec) : 0.305
-- The convergence curve (fitness as a function of time)
+- The convergence curve :
+
 ![Legende](sol_sphere_500.png)
 
 ### F3 : Shifted Rosenbrock’s Function
@@ -67,6 +68,7 @@ The  is done for both dimension D = 50 and D = 500.
 - The number of function evaluations : 4901
 - The computational time (sec) :8.360
 - The convergence curve (fitness as a function of time)
+
 ![Legende](sol_rosenbrock_50.png)
 
 #### D = 500
@@ -78,6 +80,7 @@ The  is done for both dimension D = 50 and D = 500.
 - The number of function evaluations : 4901
 - The computational time (sec) : 10.626
 - The convergence curve (fitness as a function of time)
+
 ![Legende](sol_rosenbrock_500.png)
 
 ### F4 : Shifted Rastrigin’s Function
@@ -88,52 +91,62 @@ The  is done for both dimension D = 50 and D = 500.
 - Fitness: ~ 0.141031
 - The number of function evaluations : 901
 - The computational time (sec) : 4.884
-- The convergence curve (fitness as a function of time)
+- The convergence curve :
+
 ![Legende](sol_rastrigin_50.png)
 
 #### D = 500
+
 [notebook_Schift_rastrigin_500](./Schift_rastrigin_500.ipynb)
 
 - The chosen algorithm :ABC: Artificial Bee Colony
 - Fitness: ~ 0
 - The number of function evaluations : 79901
 - The computational time (sec) : 241.044
-- The convergence curve (fitness as a function of time)
+- The convergence curve :
+
 ![Legende](sol_rastrigin_500.png)
 
 ### F5 : Shifted Griewank’s Function
 #### D = 50
+
 [notebook_Schift_griewank_50](./Schift_griewank_50.ipynb)
 
 - The chosen algorithm :**PSO: Particle Swarm Optimization**
 - Fitness: ~ 0
 - The number of function evaluations : 2401 iterations
 - The computational time (sec) : 7.452
-- The convergence curve (fitness as a function of time)
+- The convergence curve :
+
 ![Legende](sol_griewank_50.png)
 
 #### D = 500
+
 [notebook_Schift_griewank_500](./Schift_griewank_500.ipynb)
 
 - The chosen algorithm :**PSO: Particle Swarm Optimization**
 - Fitness: ~ 0.000002
 - The number of function evaluations : 2401 iterations
 - The computational time (sec) : 31.694
-- The convergence curve (fitness as a function of time)
+- The convergence curve :
+
 ![Legende](sol_griewank_500.png)
 
 ### F6 : Shifted Ackley’s Function
 #### D = 50
+
 [notebook_Schift_ackley_50](./Schift_ackley_50.ipynb)
 
 - The chosen algorithm :**saDE: Self-adaptive Differential Evolution**
 - Fitness: ~ 0.053
 - The number of function evaluations : 1901 iterations
 - The computational time (sec) : 2.414
-- The convergence curve (fitness as a function of time)
+- The convergence curve :
+
 ![Legende](sol_ackley_50.png)
 
 #### D = 500
+
 [notebook_Schift_ackley_500](./Schift_ackley_500.ipynb)
 
 - The chosen algorithm :**PSO: Particle Swarm Optimization**
@@ -141,4 +154,5 @@ The  is done for both dimension D = 50 and D = 500.
 - The number of function evaluations : 4901 iterations
 - The computational time (sec) : 39.131
 - The convergence curve (fitness as a function of time)
+
 ![Legende](sol_ackley_500.png)
