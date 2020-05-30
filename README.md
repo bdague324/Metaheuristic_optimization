@@ -87,7 +87,7 @@ Notebook associated to the problem:[notebook_rosenbrock_500](./rosenbrock/rosenb
 ### F4 : Shifted Rastrigin’s Function
 #### D = 50
 
-Notebook associated to the problem: [notebook_Shift_rastrigin_50](./rastrigin/Shift_rastrigin_50.ipynb)
+Notebook associated to the problem: [notebook_Shift_rastrigin_50](./rastrigin/rastrigin_50.ipynb)
 
 - The chosen algorithm :**saDE**
 - Fitness: ~ 0.141031
@@ -99,7 +99,7 @@ Notebook associated to the problem: [notebook_Shift_rastrigin_50](./rastrigin/Sh
 
 #### D = 500
 
-Notebook associated to the problem: [notebook_Shift_rastrigin_500](./rastrigin/Shift_rastrigin_500.ipynb)
+Notebook associated to the problem: [notebook_Shift_rastrigin_500](./rastrigin/rastrigin_500.ipynb)
 
 - The chosen algorithm :ABC: Artificial Bee Colony
 - Fitness: ~ 0
